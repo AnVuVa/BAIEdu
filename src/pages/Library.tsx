@@ -157,7 +157,7 @@ export default function Library() {
                       </div>
                     </div>
                     <div className="p-4 border-t border-slate-100 bg-slate-50 flex justify-between items-center">
-                      <span className="text-xs text-slate-400 font-medium">Đã xác minh đạo đức</span>
+                      <span className="text-xs text-slate-400 font-medium">Đã xác minh</span>
                       <button 
                         onClick={() => handleCopy(prompt.id, prompt.content)}
                         className={`flex items-center gap-2 text-sm font-medium px-4 py-2 rounded-lg transition-colors ${copiedId === prompt.id ? 'bg-emerald-100 text-emerald-700' : 'bg-white border border-slate-200 text-slate-600 hover:text-blue-600 hover:border-blue-200'}`}

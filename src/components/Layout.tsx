@@ -18,7 +18,7 @@ export default function Layout() {
               </div>
               <span className="font-bold text-xl tracking-tight text-white">BAIEdu</span>
             </div>
-            <p className="text-sm">Định hình tư duy và trang bị la bàn đạo đức cho thế hệ trẻ trong kỷ nguyên Trí tuệ Nhân tạo.</p>
+            <p className="text-sm">Định hình tư duy và trang bị la bàn đạo đức cho mọi người trong kỷ nguyên Trí tuệ Nhân tạo.</p>
           </div>
           <div>
             <h3 className="text-white font-semibold mb-4">Khóa học</h3>
